@@ -26,8 +26,7 @@ SHA256 file hash: 54e6ea47eb04634d3e87fd7787e2136ccfbcc80ade34f246a12cf93bab527f
 
 The file hash was scanned using Virus Total to check if the file is malicious. 58/72 security vendors flagged the file as malicious.
 
-
-                                                                                                          PYRAMID OF PAIN
+                                                              PYRAMID OF PAIN
   
 
 Domain names: org.misecure.com is reported as a malicious contacted domain under the Relations tab in the VirusTotal report.
